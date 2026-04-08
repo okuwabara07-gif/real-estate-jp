@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://real-estate-jp.vercel.app/sitemap.xml
+Sitemap: https://okuwabara07-gif.github.io/real-estate-jp/sitemap.xml
